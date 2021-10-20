@@ -1,0 +1,43 @@
+#DivSite{
+    border-style: groove;
+    border-width: 1px;
+    border-color: rgba(0,0,0,1);
+}
+#DivLogo,#DivLogin,#DivBanner{
+    border-style: groove;
+    border-width: 1px;
+    border-color: rgba(0,0,0,1);
+    height: 100px; 
+}
+#DivMenuLat,#DivConteudo{
+    border-style: groove;
+    border-width: 1px;
+    border-color: rgba(0,0,0,1);
+    height: 100px;
+    min-height: 150px;
+    height: auto;
+}
+#DivMenuSup{
+    border-style: groove;
+    border-width: 1px;
+    border-color: rgba(0,0,0,1);
+    height: 30px; 
+}
+#DivAnuncio{
+    border-style: groove;
+    border-width: 1px;
+    border-color: rgba(0,0,0,1);
+    height: 180px; 
+}
+#DivImagem1,#DivImagem2,#DivImagem3,#DivImagem4{
+    border-style: groove;
+    border-width: 1px;
+    border-color: rgba(0,0,0,1);
+    height: 100px; 
+}
+#DivTexto1,#DivTexto2{
+    border-style: groove;
+    border-width: 1px;
+    border-color: rgba(0,0,0,1);
+    height: 250px; 
+}

@@ -1,0 +1,28 @@
+#divMenu ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+#divMenu ul li{
+    display: inline-block;  
+    padding: 2px 50px;
+    background: rgba(13,84,96,0.5);
+    color: #fff;
+}
+
+#divMenu ul li:hover{
+    background: rgba(13,150,255,0.5); 
+    color: #000;
+}
+
+.linkMenu{
+  text-decoration: none;
+  font-family: verdana;
+  color: #004085;
+}
+
+
+
+
+
+
